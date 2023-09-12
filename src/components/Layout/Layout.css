@@ -1,0 +1,19 @@
+ul.nav-bar-list {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.nav-item  {
+    list-style-type: none;
+    color: #fff;
+}
+.navbar-nav li{
+    color: #fff;
+}
+.pro-container{
+    background-color: #004d00;
+}
+.nav-link{
+    color: beige;
+}

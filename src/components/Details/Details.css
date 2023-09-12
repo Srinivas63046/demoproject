@@ -1,0 +1,12 @@
+.master-piece-containerthree .playone{
+    color: white;
+    margin-left: 30px;
+    
+}
+.master-piece-containerthree.playthree{
+    color: blue;
+}
+.master-piece-containerthree{
+    background-color:black;
+    color: white;
+}

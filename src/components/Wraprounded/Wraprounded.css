@@ -1,0 +1,24 @@
+.wrap-cards-container .card {
+    border: none;
+    text-align: center;
+    position: relative;
+}
+
+.wrap-cards-container .card .cart-text-wrapper {
+    margin-top: 20px;
+}
+.wrap-cards-container .card .image-wrapper{
+    border-radius: 50%;
+}
+.wrap-cards-container img.child-image-wrapper {
+    left: 216px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 10px;
+}
+.wrap-cards-container .card .card-body img {
+    margin-bottom: 80px;
+    
+}

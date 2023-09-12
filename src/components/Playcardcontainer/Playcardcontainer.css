@@ -1,0 +1,21 @@
+
+
+.btnn{
+    margin-right: 50px;
+    width: 90px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+.master-piece-containerone{
+    background-color: black;
+}
+.master-piece-containerone .play-heading {
+    color: white;
+}
+
+.master-piece-containerone .play-text{
+    color: white;
+}

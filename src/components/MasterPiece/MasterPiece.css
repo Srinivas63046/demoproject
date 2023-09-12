@@ -1,0 +1,14 @@
+.master-pice-text-wrapper {
+    background: black;
+    padding: 10px;
+    margin: 20px 20px;
+    color: #ffff;
+    text-align: center;
+}
+.master-piece-container .col p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.carousel-inner h2, p{
+    color: #ffffff;
+}

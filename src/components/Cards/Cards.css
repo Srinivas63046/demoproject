@@ -1,0 +1,16 @@
+.card {
+    border: none;
+    text-align: center;
+}
+.cards-container .card img {
+        border-radius: 50%;
+}
+.card .cart-text-wrapper {
+    margin-top: 20px;
+}
+.cart-text-wrapper .card-title{
+    color: black;
+}
+.cart-text-wrapper .card-text{
+    color: black;
+}

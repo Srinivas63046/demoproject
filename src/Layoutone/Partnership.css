@@ -1,0 +1,17 @@
+.master-piece-containertwo .playone{
+    color: black;
+    margin-left: 30px;
+    
+}
+.master-piece-containertwo.playthree{
+    color: blue;
+}
+.formate{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.formate h3{
+    color: #8110ec;
+    font-size: 30px;
+}
